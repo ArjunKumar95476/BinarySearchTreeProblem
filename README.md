@@ -1,6 +1,6 @@
 ### BinarySearchTreeProblem
 
-Fina a value in a BST <br>
+1.Fina a value in a BST <br>
 2.Deletion of a node in a BST <br>
 3.Find min and max value in a BST <br>
 4.Find inorder successor and inorder predecessor in a BST <br>
